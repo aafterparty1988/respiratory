@@ -1,0 +1,6 @@
+{
+  "name": "YouTube TimeVault — Навигатор видео по времени",
+  "description": "Удобный поиск и навигация по видео выбранных YouTube-каналов в заданном временном диапазоне публикации с обложками и превью.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
